@@ -11,7 +11,7 @@ public class IT24102555Lab6Q3 {
 
         System.out.println("Enter positive integers (terminate with -99):");
 
-        while (true) {
+        while {
             System.out.print("Enter a number :");
             int num = input.nextInt();
 
