@@ -8,8 +8,7 @@ public class IT24102555Lab6Q3 {
         int count = 0;
         int sumOfSquares = 0;
         
-
-        System.out.println("Enter positive integers (terminate with -99):");
+   System.out.println("Enter positive integers (terminate with -99):");
 
         while {
             System.out.print("Enter a number :");
@@ -25,8 +24,7 @@ public class IT24102555Lab6Q3 {
                 continue;
             }
 
-
-           sumOfSquares =  sumOfSquares + num * num;
+            sumOfSquares =  sumOfSquares + num * num;
             count++;
         }
 
